@@ -1,13 +1,13 @@
 criaCartao(
     'quizz',
-    'Qual a escala de trabalho do Neymar?',
-    '364x1 e em ano bisexto: 365x1'
+    'Quem ganhou o mundial de 1951?',
+    'Palmeiras'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital da Espanha?',
+    'A capital da Espanha é Madri'
 )
 
 criaCartao(
@@ -18,14 +18,14 @@ criaCartao(
 
 criaCartao(
     'Quizz',
-    'O Pelé tem quantas copas do mundo?',
-    'Ele tem 3'
+    'Quantos titulos o Palmeiras tem no total?',
+    'Mais de 350 titulos'
 )
 
 criaCartao(
-    'Quizz Santos FC.',
-    'Quantas libertadores o Santos FC tem?',
-    '3 libertadores'
+    'Quizz.',
+    'Quem é o maior artilheiro do Palmeiras?',
+    'Heitor. 326 gols'
 )
 
 
