@@ -1,36 +1,36 @@
 criaCartao(
-    'quizz',
-    'Quem ganhou o mundial de 1951?',
-    'Palmeiras'
+    'Geografia',
+    'Qual é a capital do estado do Paraná?',
+    'Curitiba'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da Espanha?',
-    'A capital da Espanha é Madri'
+    'Onde está localizado o Paraná no Brasil?',
+    'Está localizado na região Sul do Brasil'
 )
 
 criaCartao(
-    'Programação',
-    'O que é Criptomoeda?',
-    'Uma moeda virtual'
+    'Geografia',
+    'Qual é o rio mais importante do Paraná?',
+    'Rio Iguaçu'
 )
 
 criaCartao(
-    'Quizz',
-    'Quantos titulos o Palmeiras tem no total?',
-    'Mais de 350 titulos'
+    'Geografia',
+    'Qual é a principal atividade econômica do Paraná?',
+    'Agricultura'
 )
 
 criaCartao(
-    'Quizz.',
-    'Quem é o maior artilheiro do Palmeiras?',
-    'Heitor. 326 gols'
+    'Geografia',
+    'O Paraná é conhecido por qual tipo de clima?',
+    'Subtropical Úmido'
 )
 
 
 criaCartao(
-    'Programação',
-    'Qual a finalidade da variável em javascript?',
-    'Armazenar valores aleatórios a serem transcritos no html'
+    'Geografia',
+    'Qual o principal produto agrícola de exportação do Paraná?',
+    'soja'
 )
